@@ -1,0 +1,68 @@
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\ConsoleAppPostgreORM_Demo.exe
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\ConsoleAppPostgreORM_Demo.deps.json
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\ConsoleAppPostgreORM_Demo.runtimeconfig.json
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\ConsoleAppPostgreORM_Demo.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\ConsoleAppPostgreORM_Demo.pdb
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Humanizer.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Npgsql.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ConsoleAppPostgreORM_Demo.csproj.AssemblyReference.cache
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ConsoleAppPostgreORM_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ConsoleAppPostgreORM_Demo.AssemblyInfoInputs.cache
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ConsoleAppPostgreORM_Demo.AssemblyInfo.cs
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ConsoleAppPostgreORM_Demo.csproj.CoreCompileInputs.cache
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ConsoleAppPostgreORM_Demo.csproj.CopyComplete
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ConsoleAppPostgreORM_Demo.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\refint\ConsoleAppPostgreORM_Demo.dll
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ConsoleAppPostgreORM_Demo.pdb
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ConsoleAppPostgreORM_Demo.genruntimeconfig.cache
+D:\Training\Postgresql NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ref\ConsoleAppPostgreORM_Demo.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\ConsoleAppPostgreORM_Demo.exe
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\ConsoleAppPostgreORM_Demo.deps.json
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\ConsoleAppPostgreORM_Demo.runtimeconfig.json
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\ConsoleAppPostgreORM_Demo.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\ConsoleAppPostgreORM_Demo.pdb
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Humanizer.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Npgsql.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ConsoleAppPostgreORM_Demo.csproj.AssemblyReference.cache
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ConsoleAppPostgreORM_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ConsoleAppPostgreORM_Demo.AssemblyInfoInputs.cache
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ConsoleAppPostgreORM_Demo.AssemblyInfo.cs
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ConsoleAppPostgreORM_Demo.csproj.CoreCompileInputs.cache
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ConsoleAppPostgreORM_Demo.csproj.CopyComplete
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ConsoleAppPostgreORM_Demo.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\refint\ConsoleAppPostgreORM_Demo.dll
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ConsoleAppPostgreORM_Demo.pdb
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ConsoleAppPostgreORM_Demo.genruntimeconfig.cache
+D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\obj\Debug\net6.0\ref\ConsoleAppPostgreORM_Demo.dll

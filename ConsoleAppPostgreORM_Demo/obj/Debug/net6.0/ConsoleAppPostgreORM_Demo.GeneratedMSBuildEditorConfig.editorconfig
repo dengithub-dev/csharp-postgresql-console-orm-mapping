@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ConsoleAppPostgreORM_Demo
+build_property.ProjectDir = D:\Marlow\Training\Postgresql Bespoke 2022\Files\OneDrive_2022-10-11\2022.09.29-30 PostgreSql Dev NP\ConsoleAppPostgreORM_Demo\ConsoleAppPostgreORM_Demo\
